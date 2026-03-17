@@ -158,6 +158,12 @@ article {
 .wide-column img {
   width: 120px;
 }
+.labels {
+  font-weight: bold;
+  width: 70px;
+  text-align: right;
+  margin-right: 15px;
+}
 
 /****************** form styling ******************/
 
