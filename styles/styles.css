@@ -170,6 +170,12 @@ article {
   position: relative;
   top: 30px;
 }
+.light-background h2 {
+  position: relative;
+  top: 10px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
 
 /****************** form styling ******************/
 
