@@ -112,6 +112,10 @@ header nav ul {
   gap: 15px;
   margin-left: auto; /* pushes nav to the right */
 }
+footer div {
+  text-align: center;
+  padding: 15px 0;
+}
 
 /****************** home page styling ******************/
 
