@@ -203,3 +203,6 @@ label {
 input {
   width: 100px;
 }
+form .flex > div {
+  margin-right: 15px;
+}
