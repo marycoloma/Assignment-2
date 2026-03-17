@@ -200,3 +200,6 @@ label {
   font-weight: bold;
   text-align: center;
 }
+input {
+  width: 100px;
+}
