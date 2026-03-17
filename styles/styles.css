@@ -164,6 +164,12 @@ article {
   text-align: right;
   margin-right: 15px;
 }
+.light-background {
+  background-color: lightgray;
+  height: 140px;
+  position: relative;
+  top: 30px;
+}
 
 /****************** form styling ******************/
 
