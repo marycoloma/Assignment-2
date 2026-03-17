@@ -89,6 +89,10 @@ p {
 */
 
 /*** INSERT YOUR WORK BELOW: ***/
+header,
+footer {
+  background-color: #c74365;
+}
 
 /****************** home page styling ******************/
 
