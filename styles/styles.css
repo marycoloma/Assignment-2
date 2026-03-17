@@ -206,3 +206,17 @@ input {
 form .flex > div {
   margin-right: 15px;
 }
+button {
+  width: 100px;
+  height: 21px;
+  margin-top: 30px;
+  margin-left: 500px; /* 600px container - 100px button */
+  border: 1px solid grey;
+  background-color: white;
+  border-radius: 4px;
+  font-family: "Roboto", sans-serif;
+}
+
+button:hover {
+  background-color: grey;
+}
