@@ -93,6 +93,9 @@ header,
 footer {
   background-color: #c74365;
 }
+main {
+  margin: 30px 0;
+}
 
 /****************** home page styling ******************/
 
